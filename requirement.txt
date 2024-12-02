@@ -1,0 +1,12 @@
+PyAudio
+requests
+openai
+transformers
+langchain
+tiktoken
+langchain_experimental
+faiss-cpu
+torchaudio
+g2pM
+keyboard
+pynput
